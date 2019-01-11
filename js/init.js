@@ -8,6 +8,7 @@
     
  $(document).ready(function(){
     $('.slider').slider();
+    $('.sidenav').sidenav();
   });
     
     // end of document ready
